@@ -1,0 +1,15 @@
+C:\devo\Linkedin Learing\dotnet\Bank\obj\Debug\net6.0\Bank.csproj.AssemblyReference.cache
+C:\devo\Linkedin Learing\dotnet\Bank\obj\Debug\net6.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\devo\Linkedin Learing\dotnet\Bank\obj\Debug\net6.0\Bank.AssemblyInfoInputs.cache
+C:\devo\Linkedin Learing\dotnet\Bank\obj\Debug\net6.0\Bank.AssemblyInfo.cs
+C:\devo\Linkedin Learing\dotnet\Bank\obj\Debug\net6.0\Bank.csproj.CoreCompileInputs.cache
+C:\devo\Linkedin Learing\dotnet\Bank\bin\Debug\net6.0\Bank.exe
+C:\devo\Linkedin Learing\dotnet\Bank\bin\Debug\net6.0\Bank.deps.json
+C:\devo\Linkedin Learing\dotnet\Bank\bin\Debug\net6.0\Bank.runtimeconfig.json
+C:\devo\Linkedin Learing\dotnet\Bank\bin\Debug\net6.0\Bank.dll
+C:\devo\Linkedin Learing\dotnet\Bank\bin\Debug\net6.0\Bank.pdb
+C:\devo\Linkedin Learing\dotnet\Bank\obj\Debug\net6.0\Bank.dll
+C:\devo\Linkedin Learing\dotnet\Bank\obj\Debug\net6.0\refint\Bank.dll
+C:\devo\Linkedin Learing\dotnet\Bank\obj\Debug\net6.0\Bank.pdb
+C:\devo\Linkedin Learing\dotnet\Bank\obj\Debug\net6.0\Bank.genruntimeconfig.cache
+C:\devo\Linkedin Learing\dotnet\Bank\obj\Debug\net6.0\ref\Bank.dll

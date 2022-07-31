@@ -1,0 +1,15 @@
+C:\devo\Linkedin Learing\dotnet\GusseGame\bin\Debug\net6.0\GusseGame.exe
+C:\devo\Linkedin Learing\dotnet\GusseGame\bin\Debug\net6.0\GusseGame.deps.json
+C:\devo\Linkedin Learing\dotnet\GusseGame\bin\Debug\net6.0\GusseGame.runtimeconfig.json
+C:\devo\Linkedin Learing\dotnet\GusseGame\bin\Debug\net6.0\GusseGame.dll
+C:\devo\Linkedin Learing\dotnet\GusseGame\bin\Debug\net6.0\GusseGame.pdb
+C:\devo\Linkedin Learing\dotnet\GusseGame\obj\Debug\net6.0\GusseGame.csproj.AssemblyReference.cache
+C:\devo\Linkedin Learing\dotnet\GusseGame\obj\Debug\net6.0\GusseGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\devo\Linkedin Learing\dotnet\GusseGame\obj\Debug\net6.0\GusseGame.AssemblyInfoInputs.cache
+C:\devo\Linkedin Learing\dotnet\GusseGame\obj\Debug\net6.0\GusseGame.AssemblyInfo.cs
+C:\devo\Linkedin Learing\dotnet\GusseGame\obj\Debug\net6.0\GusseGame.csproj.CoreCompileInputs.cache
+C:\devo\Linkedin Learing\dotnet\GusseGame\obj\Debug\net6.0\GusseGame.dll
+C:\devo\Linkedin Learing\dotnet\GusseGame\obj\Debug\net6.0\refint\GusseGame.dll
+C:\devo\Linkedin Learing\dotnet\GusseGame\obj\Debug\net6.0\GusseGame.pdb
+C:\devo\Linkedin Learing\dotnet\GusseGame\obj\Debug\net6.0\GusseGame.genruntimeconfig.cache
+C:\devo\Linkedin Learing\dotnet\GusseGame\obj\Debug\net6.0\ref\GusseGame.dll

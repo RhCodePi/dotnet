@@ -1,0 +1,15 @@
+C:\devo\Linkedin Learing\dotnet\Palindrome\bin\Debug\net6.0\Palindrome.exe
+C:\devo\Linkedin Learing\dotnet\Palindrome\bin\Debug\net6.0\Palindrome.deps.json
+C:\devo\Linkedin Learing\dotnet\Palindrome\bin\Debug\net6.0\Palindrome.runtimeconfig.json
+C:\devo\Linkedin Learing\dotnet\Palindrome\bin\Debug\net6.0\Palindrome.dll
+C:\devo\Linkedin Learing\dotnet\Palindrome\bin\Debug\net6.0\Palindrome.pdb
+C:\devo\Linkedin Learing\dotnet\Palindrome\obj\Debug\net6.0\Palindrome.csproj.AssemblyReference.cache
+C:\devo\Linkedin Learing\dotnet\Palindrome\obj\Debug\net6.0\Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\devo\Linkedin Learing\dotnet\Palindrome\obj\Debug\net6.0\Palindrome.AssemblyInfoInputs.cache
+C:\devo\Linkedin Learing\dotnet\Palindrome\obj\Debug\net6.0\Palindrome.AssemblyInfo.cs
+C:\devo\Linkedin Learing\dotnet\Palindrome\obj\Debug\net6.0\Palindrome.csproj.CoreCompileInputs.cache
+C:\devo\Linkedin Learing\dotnet\Palindrome\obj\Debug\net6.0\Palindrome.dll
+C:\devo\Linkedin Learing\dotnet\Palindrome\obj\Debug\net6.0\refint\Palindrome.dll
+C:\devo\Linkedin Learing\dotnet\Palindrome\obj\Debug\net6.0\Palindrome.pdb
+C:\devo\Linkedin Learing\dotnet\Palindrome\obj\Debug\net6.0\Palindrome.genruntimeconfig.cache
+C:\devo\Linkedin Learing\dotnet\Palindrome\obj\Debug\net6.0\ref\Palindrome.dll

@@ -1,0 +1,15 @@
+C:\devo\Linkedin Learing\dotnet\Shopping-List\bin\Debug\net6.0\Shopping-List.exe
+C:\devo\Linkedin Learing\dotnet\Shopping-List\bin\Debug\net6.0\Shopping-List.deps.json
+C:\devo\Linkedin Learing\dotnet\Shopping-List\bin\Debug\net6.0\Shopping-List.runtimeconfig.json
+C:\devo\Linkedin Learing\dotnet\Shopping-List\bin\Debug\net6.0\Shopping-List.dll
+C:\devo\Linkedin Learing\dotnet\Shopping-List\bin\Debug\net6.0\Shopping-List.pdb
+C:\devo\Linkedin Learing\dotnet\Shopping-List\obj\Debug\net6.0\Shopping-List.csproj.AssemblyReference.cache
+C:\devo\Linkedin Learing\dotnet\Shopping-List\obj\Debug\net6.0\Shopping-List.GeneratedMSBuildEditorConfig.editorconfig
+C:\devo\Linkedin Learing\dotnet\Shopping-List\obj\Debug\net6.0\Shopping-List.AssemblyInfoInputs.cache
+C:\devo\Linkedin Learing\dotnet\Shopping-List\obj\Debug\net6.0\Shopping-List.AssemblyInfo.cs
+C:\devo\Linkedin Learing\dotnet\Shopping-List\obj\Debug\net6.0\Shopping-List.csproj.CoreCompileInputs.cache
+C:\devo\Linkedin Learing\dotnet\Shopping-List\obj\Debug\net6.0\Shopping-List.dll
+C:\devo\Linkedin Learing\dotnet\Shopping-List\obj\Debug\net6.0\refint\Shopping-List.dll
+C:\devo\Linkedin Learing\dotnet\Shopping-List\obj\Debug\net6.0\Shopping-List.pdb
+C:\devo\Linkedin Learing\dotnet\Shopping-List\obj\Debug\net6.0\Shopping-List.genruntimeconfig.cache
+C:\devo\Linkedin Learing\dotnet\Shopping-List\obj\Debug\net6.0\ref\Shopping-List.dll

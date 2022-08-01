@@ -1,0 +1,15 @@
+C:\devo\Linkedin Learing\dotnet\Interface\bin\Debug\net6.0\Interface.exe
+C:\devo\Linkedin Learing\dotnet\Interface\bin\Debug\net6.0\Interface.deps.json
+C:\devo\Linkedin Learing\dotnet\Interface\bin\Debug\net6.0\Interface.runtimeconfig.json
+C:\devo\Linkedin Learing\dotnet\Interface\bin\Debug\net6.0\Interface.dll
+C:\devo\Linkedin Learing\dotnet\Interface\bin\Debug\net6.0\Interface.pdb
+C:\devo\Linkedin Learing\dotnet\Interface\obj\Debug\net6.0\Interface.csproj.AssemblyReference.cache
+C:\devo\Linkedin Learing\dotnet\Interface\obj\Debug\net6.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\devo\Linkedin Learing\dotnet\Interface\obj\Debug\net6.0\Interface.AssemblyInfoInputs.cache
+C:\devo\Linkedin Learing\dotnet\Interface\obj\Debug\net6.0\Interface.AssemblyInfo.cs
+C:\devo\Linkedin Learing\dotnet\Interface\obj\Debug\net6.0\Interface.csproj.CoreCompileInputs.cache
+C:\devo\Linkedin Learing\dotnet\Interface\obj\Debug\net6.0\Interface.dll
+C:\devo\Linkedin Learing\dotnet\Interface\obj\Debug\net6.0\refint\Interface.dll
+C:\devo\Linkedin Learing\dotnet\Interface\obj\Debug\net6.0\Interface.pdb
+C:\devo\Linkedin Learing\dotnet\Interface\obj\Debug\net6.0\Interface.genruntimeconfig.cache
+C:\devo\Linkedin Learing\dotnet\Interface\obj\Debug\net6.0\ref\Interface.dll

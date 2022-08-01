@@ -1,0 +1,15 @@
+C:\devo\Linkedin Learing\dotnet\Generics\bin\Debug\net6.0\Generics.exe
+C:\devo\Linkedin Learing\dotnet\Generics\bin\Debug\net6.0\Generics.deps.json
+C:\devo\Linkedin Learing\dotnet\Generics\bin\Debug\net6.0\Generics.runtimeconfig.json
+C:\devo\Linkedin Learing\dotnet\Generics\bin\Debug\net6.0\Generics.dll
+C:\devo\Linkedin Learing\dotnet\Generics\bin\Debug\net6.0\Generics.pdb
+C:\devo\Linkedin Learing\dotnet\Generics\obj\Debug\net6.0\Generics.csproj.AssemblyReference.cache
+C:\devo\Linkedin Learing\dotnet\Generics\obj\Debug\net6.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\devo\Linkedin Learing\dotnet\Generics\obj\Debug\net6.0\Generics.AssemblyInfoInputs.cache
+C:\devo\Linkedin Learing\dotnet\Generics\obj\Debug\net6.0\Generics.AssemblyInfo.cs
+C:\devo\Linkedin Learing\dotnet\Generics\obj\Debug\net6.0\Generics.csproj.CoreCompileInputs.cache
+C:\devo\Linkedin Learing\dotnet\Generics\obj\Debug\net6.0\Generics.dll
+C:\devo\Linkedin Learing\dotnet\Generics\obj\Debug\net6.0\refint\Generics.dll
+C:\devo\Linkedin Learing\dotnet\Generics\obj\Debug\net6.0\Generics.pdb
+C:\devo\Linkedin Learing\dotnet\Generics\obj\Debug\net6.0\Generics.genruntimeconfig.cache
+C:\devo\Linkedin Learing\dotnet\Generics\obj\Debug\net6.0\ref\Generics.dll

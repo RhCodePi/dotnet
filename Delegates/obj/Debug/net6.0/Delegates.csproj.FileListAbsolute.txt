@@ -1,0 +1,15 @@
+C:\devo\Linkedin Learing\dotnet\Delegates\bin\Debug\net6.0\Delegates.exe
+C:\devo\Linkedin Learing\dotnet\Delegates\bin\Debug\net6.0\Delegates.deps.json
+C:\devo\Linkedin Learing\dotnet\Delegates\bin\Debug\net6.0\Delegates.runtimeconfig.json
+C:\devo\Linkedin Learing\dotnet\Delegates\bin\Debug\net6.0\Delegates.dll
+C:\devo\Linkedin Learing\dotnet\Delegates\bin\Debug\net6.0\Delegates.pdb
+C:\devo\Linkedin Learing\dotnet\Delegates\obj\Debug\net6.0\Delegates.csproj.AssemblyReference.cache
+C:\devo\Linkedin Learing\dotnet\Delegates\obj\Debug\net6.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\devo\Linkedin Learing\dotnet\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfoInputs.cache
+C:\devo\Linkedin Learing\dotnet\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfo.cs
+C:\devo\Linkedin Learing\dotnet\Delegates\obj\Debug\net6.0\Delegates.csproj.CoreCompileInputs.cache
+C:\devo\Linkedin Learing\dotnet\Delegates\obj\Debug\net6.0\Delegates.dll
+C:\devo\Linkedin Learing\dotnet\Delegates\obj\Debug\net6.0\refint\Delegates.dll
+C:\devo\Linkedin Learing\dotnet\Delegates\obj\Debug\net6.0\Delegates.pdb
+C:\devo\Linkedin Learing\dotnet\Delegates\obj\Debug\net6.0\Delegates.genruntimeconfig.cache
+C:\devo\Linkedin Learing\dotnet\Delegates\obj\Debug\net6.0\ref\Delegates.dll

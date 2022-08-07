@@ -1,0 +1,15 @@
+C:\devo\Linkedin Learing\dotnet\Challenges\chall-12\bin\Debug\net6.0\chall-12.exe
+C:\devo\Linkedin Learing\dotnet\Challenges\chall-12\bin\Debug\net6.0\chall-12.deps.json
+C:\devo\Linkedin Learing\dotnet\Challenges\chall-12\bin\Debug\net6.0\chall-12.runtimeconfig.json
+C:\devo\Linkedin Learing\dotnet\Challenges\chall-12\bin\Debug\net6.0\chall-12.dll
+C:\devo\Linkedin Learing\dotnet\Challenges\chall-12\bin\Debug\net6.0\chall-12.pdb
+C:\devo\Linkedin Learing\dotnet\Challenges\chall-12\obj\Debug\net6.0\chall-12.csproj.AssemblyReference.cache
+C:\devo\Linkedin Learing\dotnet\Challenges\chall-12\obj\Debug\net6.0\chall-12.GeneratedMSBuildEditorConfig.editorconfig
+C:\devo\Linkedin Learing\dotnet\Challenges\chall-12\obj\Debug\net6.0\chall-12.AssemblyInfoInputs.cache
+C:\devo\Linkedin Learing\dotnet\Challenges\chall-12\obj\Debug\net6.0\chall-12.AssemblyInfo.cs
+C:\devo\Linkedin Learing\dotnet\Challenges\chall-12\obj\Debug\net6.0\chall-12.csproj.CoreCompileInputs.cache
+C:\devo\Linkedin Learing\dotnet\Challenges\chall-12\obj\Debug\net6.0\chall-12.dll
+C:\devo\Linkedin Learing\dotnet\Challenges\chall-12\obj\Debug\net6.0\refint\chall-12.dll
+C:\devo\Linkedin Learing\dotnet\Challenges\chall-12\obj\Debug\net6.0\chall-12.pdb
+C:\devo\Linkedin Learing\dotnet\Challenges\chall-12\obj\Debug\net6.0\chall-12.genruntimeconfig.cache
+C:\devo\Linkedin Learing\dotnet\Challenges\chall-12\obj\Debug\net6.0\ref\chall-12.dll
